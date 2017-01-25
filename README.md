@@ -6,5 +6,5 @@ This app will allow you to acquire, at any time and without the need to connect,
 - **Platform**: Windows Phone
 - **Programming language**: C#
 
-##Screenshoot
+##Screenshots
 https://github.com/rosarioterranova/gps_localizer_offline/tree/master/Sceenshot
